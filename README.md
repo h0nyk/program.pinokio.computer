@@ -61,16 +61,11 @@ Make sure to follow **ALL steps below!**
 
 #### Step 1. Download
 
-<a class='btn' href='https://github.com/pinokiocomputer/pinokio/releases/download/3.8.0/Pinokio-3.8.0-win32.zip'><i class="fa-brands fa-windows"></i> Download for Windows</a>
+<a class='btn' href='https://github.com/pinokiocomputer/pinokio/releases/download/v5.1.10/Pinokio.exe'><i class="fa-brands fa-windows"></i> Download for Windows</a>
 
-#### Step 2. Unzip
+#### Step 2. Install
 
-Unzip the downloaded file and you will see a .exe installer file.
-
-
-#### Step 3. Install
-
-Run the installer file and you will be presented with the following Windows warning:
+Run the installer file and you might be presented with the following Windows warning:
 
 ![win_install.gif](win_install.gif)
 
